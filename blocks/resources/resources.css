@@ -1,0 +1,11 @@
+.resources {
+    padding-top: 100px;
+    padding-bottom: 217px;
+    margin: 0;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+}
